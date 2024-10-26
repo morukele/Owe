@@ -1,3 +1,0 @@
-/Users/oghenemarho/Developer/ówe/build/CMakeFiles/owe.dir
-/Users/oghenemarho/Developer/ówe/build/CMakeFiles/edit_cache.dir
-/Users/oghenemarho/Developer/ówe/build/CMakeFiles/rebuild_cache.dir
