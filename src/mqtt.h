@@ -40,8 +40,7 @@ enum packet_type {
 /* Quality of Service of the messages AKA 0, 1, 2 */
 enum qos_level { AT_MOST_ONCE, AT_LEAST_ONCE, EXACTLY_ONCE };
 
-union mqtt_header
-{   
+union mqtt_header{
     unsigned char byte;
     struct {
         unsigned retain : 1;
